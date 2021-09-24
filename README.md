@@ -10,8 +10,6 @@
 Создай страницу меню с возможностью выбора темы для сервиса заказа еды.
 [Ссылка на демо видео](https://take.ms/RxIlv).
 
-![Превью страницы](preview.jpg)
-
 - Обязательно используй
   [parcel-project-template](https://github.com/goitacademy/parcel-project-template)
   для сборки и деплоя проекта.
