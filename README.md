@@ -1,4 +1,5 @@
-# goit-Js-hw-10-food-service &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# goit-Js-hw-10-food-service &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![Handlebars](https://img.shields.io/badge/handlebarsjs.com-templating-red)](https://handlebarsjs.com/) [![Parcel](https://img.shields.io/static/v1?label=<bundler>&message=<Parcel>&color=<purple>)](https://parceljs.org/)
+[!(https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=blue&logo=dimaly&logoColor=gree&style=plastic)](https://github.com/DimaLitvinenko/goit-Js-hw-10-food-service)
 
  ### by Parcel boilerplate
 
@@ -11,7 +12,7 @@
 [Ссылка на демо видео](https://take.ms/RxIlv).
 
 - Обязательно используй
-  [![parcel-project-template](https://github.com/goitacademy/parcel-project-template)]
+  parcel-project-template(https://github.com/goitacademy/parcel-project-template)
   для сборки и деплоя проекта.
 - В папке [src](./src) ты найдешь стартовую разметку, стили и данные
 - Массив объектов блюд лежит в [menu.json](./src/menu.json)
@@ -41,7 +42,7 @@ const Theme = {
 
 ## Шаблонизация
 
-Используя шаблонизатор [![Handlebars](https://handlebarsjs.com/)] создай шаблон
+Используя шаблонизатор Handlebars(https://handlebarsjs.com/) создай шаблон
 одного элемента меню. После чего, используя шаблон, создай разметку всего меню
 по данным из [menu.json](./src/menu.json) и добавь в DOM в `ul.js-menu`.
 
