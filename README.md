@@ -1,5 +1,5 @@
 # goit-Js-hw-10-food-service &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![Handlebars](https://img.shields.io/badge/handlebarsjs.com-templating-red)](https://handlebarsjs.com/) [![Parcel](https://img.shields.io/static/v1?label=<bundler>&message=<Parcel>&color=<purple>)](https://parceljs.org/)
-[!(https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=blue&logo=dimaly&logoColor=gree&style=plastic)](https://github.com/DimaLitvinenko/goit-Js-hw-10-food-service)
+image:https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=blue&logo=dimaly&logoColor=gree&style=plastic[GitHub commit activity]
 
  ### by Parcel boilerplate
 
