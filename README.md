@@ -1,5 +1,19 @@
 # goit-Js-hw-10-food-service &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE) [![Parcel](https://img.shields.io/static/v1?label=bundler&message=Parcel&color=<purple>)](https://parceljs.org/) [![Handlebars](https://img.shields.io/badge/templating-Handlebars-red)](https://handlebarsjs.com/) <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=blue&logo=dimaly&logoColor=gree&style=plastic">
 
+<!-- <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/url?color=blue&label=follow&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
+            alt="follow on Twitter"></a> -->
+            
+        https://img.shields.io/twitter/url?color=blue&label=follow&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F
+        
+        image:https://img.shields.io/twitter/url?color=blue&label=follow&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F["Twitter",link="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdima-litvinenko-3547b0217%2F"]
+        
+<!--         .. image:: https://img.shields.io/twitter/url?color=blue&label=follow&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F   :alt: Twitter   :target: https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdima-litvinenko-3547b0217%2F
+        
+            <a href="https://www.linkedin.com/in/dima-litvinenko-3547b0217">
+            <img alt="Twitter" src="https://img.shields.io/twitter/url?color=purple&label=follow&logo=linkedin&style=social&url=https://www.linkedin.com/in/dima-litvinenko/">
+            </a>
+            -->
  ### by Parcel boilerplate
 
 - Проект собран с помощью `Parcel`.
