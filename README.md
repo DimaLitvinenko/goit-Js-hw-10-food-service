@@ -1,7 +1,7 @@
 # goit-Js-hw-10-food-service &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE) [![Parcel](https://img.shields.io/static/v1?label=bundler&message=Parcel&color=<purple>)](https://parceljs.org/) [![Handlebars](https://img.shields.io/badge/templating-Handlebars-red)](https://handlebarsjs.com/) 
 <p>
  <a href="https:nodejs.org/en/about/?screen_name=shields_io">
-        <img src="https://img.shields.io/static/v1?labelColor=purple&color=green&message=v14.17.6&label=Node.js&style=plastic&logo=node.js&url=https://nodejs.org/en/about/"
+        <img src="https://img.shields.io/static/v1?labelColor=purple&color=green&message=v14.17.6&label=Node.js&style=plastic&logo=nodedotjs&url=https://nodejs.org/en/about/"
             alt="follow on Linkedin"></a>
   <!-- https://img.shields.io/twitter/url?color=blue&label=follow&style=social&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F -->
   
