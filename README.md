@@ -10,8 +10,11 @@
   
 <br>
 <a href="https://linkedin.com/in/dimaly-dev/?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/url?labelColor=29,49,184,0.61&label=profile&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
+        <img src="https://img.shields.io/twitter/url?&label=profile&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
         alt="follow on Linkedin"></a>
+  <a href="https://mail.google.com/mail/dimaly.too@gmail.com/?screen_name=shields_io">
+    <img src="https://img.shields.io/twitter/url?labelColor=red&logoColor=white&label=Mail&color=red&logo=gmail&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
+        alt="follow on Linkedin"></a></a>
 </p>           
 
       
