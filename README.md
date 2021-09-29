@@ -24,13 +24,12 @@
        alt="commit activity">
   
 <br>
-  
 <a href="https://linkedin.com/in/dimaly-dev/?screen_name=shields_io">
-        <img height="21" src="https://img.shields.io/twitter/url?label=My Page&labelColor=blue&logoColor=darkblue&logo=linkedin&style=plastic&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
+        <img height="20" src="https://img.shields.io/twitter/url?label=Linkedin&labelColor=blue&logoColor=darkblue&logo=linkedin&style=plastic&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
         alt="follow on Linkedin">
 </a>
 <a href="https://mail.google.com/mail/dimaly.too@gmail.com/?screen_name=shields_io">
-        <img height="21" src="https://img.shields.io/twitter/url?labelColor=red&logoColor=darkred&label=Gmail&color=red&logo=gmail&style=plastic&url=https://mail.google.com/mail/dimaly.too@gmail.com"
+        <img height="20" src="https://img.shields.io/twitter/url?labelColor=red&logoColor=darkred&label=Gmail&color=red&logo=gmail&style=plastic&url=https://mail.google.com/mail/dimaly.too@gmail.com"
         alt="follow on Gmail">
 </a>
 </p>           
