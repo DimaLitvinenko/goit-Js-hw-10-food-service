@@ -1,20 +1,36 @@
-# goit-Js-hw-10-food-service &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE) [![Parcel](https://img.shields.io/static/v1?label=bundler&message=Parcel&color=<purple>)](https://parceljs.org/) [![Handlebars](https://img.shields.io/badge/templating-Handlebars-red)](https://handlebarsjs.com/) 
+# &middot; goit-Js-hw-10-food-service 
+
 <p>
- <a href="https:nodejs.org/en/about/?screen_name=shields_io">
-        <img src="https://img.shields.io/static/v1?labelColor=purple&color=green&message=v14.17.6&label=Node.js&style=plastic&logo=nodedotjs&url=https://nodejs.org/en/about/"
-            alt="follow on Linkedin"></a>
-  <!-- https://img.shields.io/twitter/url?color=blue&label=follow&style=social&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F -->
+<a href="https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE?screen_name=shields_io">
+        <img src="https://img.shields.io/static/v1?labelColor=lightgrey&logoColor=black&color=grey&message=License&label=MIT&style=plastic&logo=monster&url=https://github.com/dimalitvinenko/goit-Js-hw-10-food-service/blob/main/LICENSE"
+             alt="GitHub license">
+</a> 
   
-  
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=blue&logo=dimaly&logoColor=gree&style=plastic">
+<a href="https:nodejs.org/en/about/?screen_name=shields_io">
+        <img src="https://img.shields.io/static/v1?labelColor=purple&color=darkgreen&message=v14.17.6&label=Node.js&style=plastic&logo=nodedotjs&url=https://nodejs.org/en/about/"
+             alt="Node.js">
+</a>
+<a href="https://parceljs.org/?screen_name=shields_io">
+        <img src="https://img.shields.io/static/v1?label=Parcel&logo=pandora&message=v1.12.5&style=plastic&logoColor=gold&labelColor=teal&color=darkgreen&url=https:https://parceljs.org"
+             alt="Parcel-js">
+</a>
+<a href="https://handlebarsjs.com/?screen_name=shields_io">
+        <img src="https://img.shields.io/static/v1?label=handlebars&logo=handlebarsdotjs&message=v4.7.7&style=plastic&logoColor=darkgrey&labelColor=chocolate&color=darkorange&url=https://handlebarsjs.com"
+             alt="Handlebars-js">
+</a>
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=lightblue&logo=github&logoColor=white&style=plastic"
+       alt="commit activity">
   
 <br>
+  
 <a href="https://linkedin.com/in/dimaly-dev/?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/url?&label=profile&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
-        alt="follow on Linkedin"></a>
-  <a href="https://mail.google.com/mail/dimaly.too@gmail.com/?screen_name=shields_io">
-    <img src="https://img.shields.io/twitter/url?labelColor=red&logoColor=white&label=Mail&color=red&logo=gmail&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
-        alt="follow on Linkedin"></a></a>
+        <img src="https://img.shields.io/twitter/url?logoWidth=25&label=My Page&labelColor=blue&logoColor=darkblue&logo=linkedin&style=plastic&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimaly-dev%2F"
+        alt="follow on Linkedin">
+</a>
+<a href="https://mail.google.com/mail/dimaly.too@gmail.com/?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/url?logoWidth=25&labelColor=red&logoColor=darkred&label=Gmail&color=red&logo=gmail&style=plastic&url=https://mail.google.com/mail/dimaly.too@gmail.com"
+        alt="follow on Gmail">
+</a>
 </p>           
 
       
