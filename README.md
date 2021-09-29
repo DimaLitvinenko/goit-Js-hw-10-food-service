@@ -6,17 +6,17 @@
              alt="GitHub license">
 </a> 
   
-<a href="https:nodejs.org/en/about/?screen_name=shields_io">
-        <img src="https://img.shields.io/static/v1?labelColor=purple&color=darkgreen&message=v14.17.6&label=Node.js&style=plastic&logo=nodedotjs&url=https://nodejs.org/en/about/"
+<a href="https://nodejs.org/en/about/?screen_name=shields_io">
+        <img src="https://img.shields.io/static/v1?labelColor=purple&color=darkgreen&message=v14.17.6&label=Node.js&style=plastic&logo=nodedotjs&url=https://nodejs.org/en/about"
              alt="Node.js">
 </a>
 <a href="https://parceljs.org/?screen_name=shields_io">
         <img src="https://img.shields.io/static/v1?label=Parcel&logo=pandora&message=v1.12.5&style=plastic&logoColor=gold&labelColor=teal&color=darkgreen&url=https:https://parceljs.org"
-             alt="Parcel-js">
+             alt="Parcel js">
 </a>
 <a href="https://handlebarsjs.com/?screen_name=shields_io">
         <img src="https://img.shields.io/static/v1?label=handlebars&logo=handlebarsdotjs&message=v4.7.7&style=plastic&logoColor=darkgrey&labelColor=chocolate&color=darkorange&url=https://handlebarsjs.com"
-             alt="Handlebars-js">
+             alt="Handlebars js">
 </a>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/DimaLitvinenko/goit-Js-hw-10-food-service?color=lightblue&logo=github&logoColor=white&style=plastic"
        alt="commit activity">
