@@ -1,0 +1,32 @@
+<!--  Для того чтобы открыть, необходимо добавить на div.lightbox CSS-класс is-open -->
+<div class="lightbox js-lightbox">
+    <div class="lightbox__overlay"></div>
+    <div class="lightbox__content">
+        <form class="feedback-form js-feedback-form">
+            <label>
+            <b>Имя</b>
+            <input
+                type="text"
+                name="name"
+                placeholder="Введите ваше имя"
+                value="Анонимус"
+            />
+            </label>
+            <label>
+            <b>Сообщение</b>
+            <textarea name="message" rows="6"></textarea>
+            </label>
+            <button class="feedback-form__button" type="submit">Оставить отзыв</button>
+        </form>
+    </div>
+<button
+type="button"
+class="lightbox__button"
+data-action="close-lightbox"
+></button>
+
+    <!-- <div class="lightbox__content">
+      <img class="lightbox__image" src="" alt="" />
+    </div>
+     -->
+</div>
